@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 Genymobile
+ * Copyright (C) 2000 lich-bot
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.genymobile.gnirehtet.relay;
+package com.lich-bot.gnirehtet.relay;
 
 import java.io.IOException;
 import java.nio.channels.Selector;
